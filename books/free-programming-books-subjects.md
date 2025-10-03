@@ -409,6 +409,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [A Brief Introduction to Neural Networks](https://www.dkriesel.com/en/science/neural_networks)
 * [A Comprehensive Guide to Machine Learning](https://www.eecs189.org/static/resources/comprehensive-guide.pdf) - Soroush Nasiriany, Garrett Thomas, William Wang, Alex Yang (PDF)
 * [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) (PDF)
+* [A First Course in Machine Learning](https://share.google/270T8EG7Z45NVUfgo) - Simon Rogers, Mark Girolami (PDF)
 * [A First Encounter with Machine Learning](https://web.archive.org/web/20210420163002/https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) - Max Welling (PDF) *( :card_file_box: archived)*
 * [A Selective Overview of Deep Learning](https://arxiv.org/abs/1904.05526) - Fan, Ma, Zhong (PDF)
 * [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) - Csaba Szepesvári (PDF)
